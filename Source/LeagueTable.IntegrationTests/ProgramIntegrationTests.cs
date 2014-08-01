@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace LeagueTableIntegrationTests
+namespace LeagueTable.IntegrationTests
 {
     using System.IO;
 
@@ -16,9 +16,10 @@ namespace LeagueTableIntegrationTests
             var console = new StringWriter();
             Console.SetOut(console);
 
-            Program.Main(new [] {"..\\..\\..\\..\\assets\\leaguetable.txt"});
+            Program.Main(new[] { @".\Data\leaguetable.txt" });
 
-            Assert.AreEqual("Minimum goal difference is: -39", console.ToString().Trim());
+            // Leeds have the lowest goal difference
+            Assert.AreEqual("Lowest goal difference is: -39", console.ToString().Trim());
         }
     }
 }

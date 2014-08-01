@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LeagueTableTests")]
+[assembly: AssemblyTitle("LeagueTable.UnitTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("LeagueTableTests")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
+[assembly: AssemblyCompany("Scott Logic Ltd.")]
+[assembly: AssemblyProduct("LeagueTable.UnitTests")]
+[assembly: AssemblyCopyright("Copyright © Scott Logic Ltd. 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("36316fbc-f22f-40e5-bd9b-e504f3952c23")]
+[assembly: Guid("f005b97b-c5ce-4bec-9e9f-c21a5389106a")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,8 +1,6 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-
-namespace LeagueTableTests
+﻿namespace LeagueTable.UnitTests
 {
-    using LeagueTable;
+    using Microsoft.VisualStudio.TestTools.UnitTesting;
 
     [TestClass]
     public class ProgramTests

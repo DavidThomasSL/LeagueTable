@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{39D49FAB-5B84-4367-9015-7F654CAF9970}</ProjectGuid>
+    <ProjectGuid>{20CA81CD-3332-4755-9D54-1DFA460EE357}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LeagueTableIntegrationTests</RootNamespace>
-    <AssemblyName>LeagueTableIntegrationTests</AssemblyName>
+    <RootNamespace>LeagueTable.UnitTests</RootNamespace>
+    <AssemblyName>LeagueTable.UnitTests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -50,12 +50,12 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="ProgramIntegrationTests.cs" />
+    <Compile Include="ProgramTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeagueTable\LeagueTable.csproj">
-      <Project>{580147BC-2B18-45E3-8B7D-66163E4EF3A2}</Project>
+      <Project>{580147bc-2b18-45e3-8b7d-66163e4ef3a2}</Project>
       <Name>LeagueTable</Name>
     </ProjectReference>
   </ItemGroup>
