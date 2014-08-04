@@ -1,0 +1,71 @@
+<league>
+	<teams>
+		<team name="Arsenal">
+			<league-stats position="1" played="38" won="26" drawn="12" lost="0" for="73" against="26" difference="+47" points="90" />
+			<status>Champions</status>
+		</team>
+		<team name="Chelsea">
+			<league-stats position="2" played="38" won="24" drawn="7" lost="7" for="67" against="30" difference="+37" points="79" />		
+		</team>
+		<team name="Manchester United">
+			<league-stats position="3" played="38" won="23" drawn="6" lost="9" for="64" against="35" difference="+29" points="75" />
+			<status>2004–05 UEFA Champions League Third qualifying round</status>
+		</team>
+		<team name="Liverpool">
+			<league-stats position="4" played="38" won="16" drawn="12" lost="10" for="55" against="37" difference="+18" points="60" />		
+		</team>
+		<team name="Newcastle United">
+			<league-stats position="5" played="38" won="13" drawn="17" lost="8" for="52" against="40" difference="+12" points="56" />
+			<status>2004–05 UEFA Cup First round</status>
+		</team>
+		<team name="Aston Villa">
+			<league-stats position="6" played="38" won="15" drawn="11" lost="12" for="48" against="44" difference="+4" points="56" />		
+		</team>
+		<team name="Charlton Athletic">
+			<league-stats position="7" played="38" won="14" drawn="11" lost="13" for="51" against="51" difference="0" points="53" />
+		</team>
+		<team name="Bolton Wanderers">
+			<league-stats position="8" played="38" won="14" drawn="11" lost="13" for="48" against="56" difference="-8" points="53" />		
+		</team>
+		<team name="Fulham">
+			<league-stats position="9" played="38" won="14" drawn="10" lost="14" for="52" against="46" difference="+6" points="52" />		
+		</team>
+		<team name="Birmingham City">
+			<league-stats position="10" played="38" won="12" drawn="14" lost="12" for="43" against="48" difference="-5" points="50" />
+		</team>
+		<team name="Middlesbrough">
+			<league-stats position="11" played="38" won="13" drawn="9" lost="16" for="44" against="52" difference="-8" points="48" />
+			<status>2004–05 UEFA Cup First round</status>		
+		</team>
+		<team name="Southampton">
+			<league-stats position="12" played="38" won="12" drawn="11" lost="15" for="44" against="45" difference="-1" points="47" />		
+		</team>
+		<team name="Portsmouth">
+			<league-stats position="13" played="38" won="12" drawn="9" lost="17" for="47" against="54" difference="-7" points="45" />
+		</team>
+		<team name="Tottenham Hotspur">
+			<league-stats position="14" played="38" won="13" drawn="6" lost="19" for="47" against="57" difference="-10" points="45" />
+		</team>
+		<team name="Blackburn Rovers">
+			<league-stats position="15" played="38" won="12" drawn="8" lost="18" for="51" against="59" difference="-8" points="44" />
+		</team>
+		<team name="Manchester City">
+			<league-stats position="16" played="38" won="9" drawn="14" lost="15" for="55" against="54" difference="+1" points="41" />
+		</team>
+		<team name="Everton">
+			<league-stats position="17" played="38" won="9" drawn="12" lost="17" for="45" against="57" difference="-12" points="39" />
+		</team>
+		<team name="Leicester City">
+			<league-stats position="18" played="38" won="6" drawn="15" lost="17" for="48" against="65" difference="-17" points="33" />
+			<status>Relegation to Football League Championship</status>
+		</team>
+		<team name="Leeds United">
+			<league-stats position="19" played="38" won="8" drawn="9" lost="21" for="40" against="79" difference="-39" points="33" />
+			<status>Relegation to Football League Championship</status>
+		</team>
+		<team name="Wolverhampton Wanderers">
+			<league-stats position="20" played="38" won="7" drawn="12" lost="19" for="38" against="77" difference="-38" points="33" />
+			<status>Relegation to Football League Championship</status>
+		</team>
+	</teams>
+</league>
