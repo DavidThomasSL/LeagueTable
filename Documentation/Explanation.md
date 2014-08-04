@@ -1,4 +1,4 @@
-# League Table Explanation
+# League Table
 
 ## Overview
 
