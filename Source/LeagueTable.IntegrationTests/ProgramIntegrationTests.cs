@@ -19,7 +19,7 @@ namespace LeagueTable.IntegrationTests
             Program.Main(new[] { @".\Data\leaguetable.txt" });
 
             // Leeds have the lowest goal difference
-            Assert.AreEqual("Lowest goal difference is: -39", console.ToString().Trim());
+            Assert.AreEqual("Lowest goal difference is: Leeds United (-39)", console.ToString().Trim());
         }
     }
 }
