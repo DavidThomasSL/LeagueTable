@@ -43,7 +43,7 @@
 
 ## Scenario: Alternative Data Source
 	
-	Given the XML data at the URL '....xml'
+	Given the XML data at the URL 'http://bit.ly/1kyp1Qr'
 	When I pass the URL as a command line parameter
 	Then the data is used as an alternative data source
 	   for all existing command line parameters
