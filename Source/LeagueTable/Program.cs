@@ -31,7 +31,7 @@
             Console.WriteLine("Lowest goal difference is: {0} ({1})", lowestTeamName, lowestGoalDifference);
         }
 
-        private static string ParseTeamName(string rawClub)
+        public static string ParseTeamName(string rawClub)
         {
             var entries = rawClub.Split(new[] { ' ', '\t' }, StringSplitOptions.RemoveEmptyEntries);
             return entries[1];
